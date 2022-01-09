@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-HELLO SHIVA
+ SHIVA
 234
 456
 =======
