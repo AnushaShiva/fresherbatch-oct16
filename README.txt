@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 HELLO SHIVA
 234
 456
+=======
+HELLO SHIVA RUTHVIK
+>>>>>>> css-assignment
